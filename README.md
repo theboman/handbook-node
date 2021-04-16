@@ -6,6 +6,9 @@ Server/backend built in Node w/ Express, for the handbook frontend.
 
 This is a project to explore examples of coding, not necessarily the best practices for a production environment. We will work to document pitfalls/tradeoffs, but do think of this as a sandbox and not as a production ready application.
 
+1. after setting up and running mongo db locally
+2. make sure you create an .env file
+
 ## Open to Contributors
 
 This is a project for learning/exploring a node express backend. There will be code duplication, redundant use of databases and other technology to further understanding of how things can/will work through examples. That said definitely jump in with tips/tricks/ideas for improvement either here via issues or via dm to @explorejs on twitter or in our community. Happy Coding.
